@@ -6,3 +6,4 @@ Nickname | Favourite quote | Favorite movie last year | Favorite series|
 :--:|:--:|:--:|:--:|
 HidirT | The way to get started is to quit talking and begin doing. | Tenet | |
 tsteckenborn | Who stops getting better stops being good | Sunshine | The Expanse |
+KThatipelli| Tough times never last, but tough people do|KGF|Money-heist|
